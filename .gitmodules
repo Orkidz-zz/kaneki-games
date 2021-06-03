@@ -1,0 +1,6 @@
+[submodule "kaneki-portfolio"]
+	path = kaneki-portfolio
+	url = https://github.com/Orkidz/kaneki-portfolio.git
+[submodule "league-of-legends-guessing-game"]
+	path = league-of-legends-guessing-game
+	url = https://github.com/Orkidz/league-of-legends-guessing-game.git
